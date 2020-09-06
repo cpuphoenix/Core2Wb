@@ -1,1 +1,1 @@
-# Core2Wb
+# Core2Web

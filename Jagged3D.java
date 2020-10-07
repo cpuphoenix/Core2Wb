@@ -36,7 +36,7 @@ class Test{
 		}
 
 		//inputting elements
-		System.out.println("***INPUTSSS***");
+		System.out.println("***INPUT***");
 		for(int i=0;i<arr.length;i++){
 			for(int j=0;j<arr[i].length;j++)
 				for(int k=0;k<arr[i][j].length;k++){
@@ -45,7 +45,7 @@ class Test{
 		}
 
 		//outputing elements
-		System.out.println("***DATAAA***");
+		System.out.println("***DATA***");
 		for(int i=0;i<arr.length;i++){
 			System.out.println("DATA in PLANE "+i);
                         for(int j=0;j<arr[i].length;j++){
